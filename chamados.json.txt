@@ -1,0 +1,7 @@
+{
+    "cliente": "João Alves",
+    "titulo": "Problema de acesso ao MS Excel",
+    "descricao": "Arquivo não abre.",
+    "status": "Andamento",
+    "data_resolucao": null
+}
